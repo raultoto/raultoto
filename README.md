@@ -75,8 +75,15 @@ Automatic Postman collection generator and test automation from OpenAPI specs an
 ### GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raultoto&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultoto&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+</p>
+<p>
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages by Commit" />
+</p>
+<p>
+  <img src="./profile-summary-card-output/default/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ---
