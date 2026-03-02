@@ -45,7 +45,6 @@ Writing about software at **[codeandbeyond.blog](https://codeandbeyond.blog)** a
 MongoDB repository pattern implementation with TypeScript. Clean abstraction layer over MongoDB operations following DDD principles — focus on business logic, not query plumbing.
 
 [![npm](https://img.shields.io/npm/v/mongo-patterns?style=flat&color=cb3837&logo=npm)](https://www.npmjs.com/package/mongo-patterns)
-[![downloads](https://img.shields.io/npm/dm/mongo-patterns?style=flat&color=blue)](https://www.npmjs.com/package/mongo-patterns)
 
 </td>
 <td width="50%" valign="top">
@@ -55,7 +54,6 @@ MongoDB repository pattern implementation with TypeScript. Clean abstraction lay
 Automatic Postman collection generator and test automation from OpenAPI specs and GraphQL schemas. Zero manual work from API definition to ready-to-use collections.
 
 [![npm](https://img.shields.io/npm/v/postman-alchemy?style=flat&color=cb3837&logo=npm)](https://www.npmjs.com/package/postman-alchemy)
-[![downloads](https://img.shields.io/npm/dm/postman-alchemy?style=flat&color=blue)](https://www.npmjs.com/package/postman-alchemy)
 
 </td>
 </tr>
