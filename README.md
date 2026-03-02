@@ -75,15 +75,15 @@ Automatic Postman collection generator and test automation from OpenAPI specs an
 ### GitHub Stats
 
 <p>
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </p>
 <p>
-  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages by Repo" />
-  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages by Commit" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
 </p>
 <p>
-  <img src="./profile-summary-card-output/default/3-stats.svg" alt="Stats" />
-  <img src="./profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ---
