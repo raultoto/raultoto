@@ -1,9 +1,33 @@
 ## Hey, I'm Raul
 
 Backend Software Engineer focused on scalable systems and clean architecture.  
-I build tools and libraries that solve real backend problems — then open source them.
+I build tools and products that solve real developer problems — then open source them.
 
 Writing about software at **[codeandbeyond.blog](https://codeandbeyond.blog)** and **[Medium](https://medium.com/@raultotocayo)**
+
+---
+
+### Currently Building
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<a href="https://www.tablehub.pro">
+  <img src="https://img.shields.io/badge/TableHub-SQL_Client-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="TableHub" />
+</a>
+
+**[TableHub](https://www.tablehub.pro)** — A fast, modern, cross-platform SQL client for developers.  
+Connect to PostgreSQL and more from a single, beautiful interface.  
+Native apps for macOS, Windows, and Linux. 
+
+`<20ms query speed` · `10+ databases` · `ER diagrams` · `Smart autocomplete`
+
+[![Download](https://img.shields.io/badge/Download-Free_Beta-2ea44f?style=flat)](https://www.tablehub.pro)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -34,7 +58,7 @@ Writing about software at **[codeandbeyond.blog](https://codeandbeyond.blog)** a
 
 ---
 
-### Featured Projects
+### Featured Open Source
 
 <table>
 <tr>
@@ -58,10 +82,6 @@ Automatic Postman collection generator and test automation from OpenAPI specs an
 </td>
 </tr>
 </table>
-
----
-
-### Other Open Source
 
 | Package | What it does | |
 |---|---|---|
@@ -89,6 +109,7 @@ Automatic Postman collection generator and test automation from OpenAPI specs an
 ---
 
 <p>
+  <a href="https://www.tablehub.pro"><img src="https://img.shields.io/badge/TableHub-www.tablehub.pro-4169E1?style=flat&logo=postgresql&logoColor=white" alt="TableHub" /></a>
   <a href="https://codeandbeyond.blog"><img src="https://img.shields.io/badge/Blog-codeandbeyond.blog-0A0A0A?style=flat&logo=hashnode&logoColor=white" alt="Blog" /></a>
   <a href="https://medium.com/@raultotocayo"><img src="https://img.shields.io/badge/Medium-@raultotocayo-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
